@@ -49,7 +49,7 @@ export default function HomePage() {
           <div className="max-w-4xl mx-auto space-y-4 sm:space-y-6 lg:space-y-8">
             <h1 className="text-2xl xs:text-3xl sm:text-4xl lg:text-6xl font-bold text-gray-900 leading-tight animate-hero">
               Your Health. <br />
-              <span className="text-emerald-600">Your Future.</span> <br />
+              <span className="text-emerald-600">Their Future.</span> <br />
               <span className="text-teal-600">Our Promise.</span>
             </h1>
 
