@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'SwasthSuraksha lifecare',
+  description: 'Your trusted healthcare partner for comprehensive medical care and wellness solutions',
   generator: 'v0.dev',
 }
 
